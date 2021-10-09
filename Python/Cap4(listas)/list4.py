@@ -1,0 +1,3 @@
+spam = ['cat', 'bat', 'rat', 'elephant'] #indices negativos indicam que começarão do final ao inicial
+print(spam[-4])# [-1] indica o ultimo ,[-2] o penúltimo e assim por diante...
+ 

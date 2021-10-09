@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.osx": {
+    
+    },
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
